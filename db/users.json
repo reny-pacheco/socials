@@ -1,0 +1,37 @@
+[
+  {
+    "username": "reny-pacheco",
+    "name": "Reny Pacheco",
+    "bio": "Software Engineer",
+    "image": "image link",
+    "tags": [
+      "javascript",
+      "python",
+      "react",
+      "node",
+      "docker",
+      "express",
+      "linux"
+    ],
+    "socials": {
+      "github": "https://github.com/reny-pacheco",
+      "linkedIn": "https://www.linkedin.com/in/reny-pacheco",
+      "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  },
+  {
+    "username": "john-doe",
+    "name": "John Doe",
+    "bio": "CEO @ Doe Technologies",
+    "image": "image link",
+    "tags": ["javascript", "python", "linux", "java"],
+    "socials": {
+      "facebook": "#",
+      "instagram": "#",
+      "github": "#",
+      "youtube": "#",
+      "portfolio": "#",
+      "linkedIn": "#"
+    }
+  }
+]
