@@ -46,7 +46,10 @@ export default function Home() {
             color="#05445E"
           >
             Your social{' '}
-            <Link href="http://localhost:3000/john-doe" className="link">
+            <Link
+              href="https://my-socials.vercel.app/john-doe"
+              className="link"
+            >
               links
             </Link>{' '}
             in one page.
@@ -58,7 +61,10 @@ export default function Home() {
             fontWeight="bold"
           >
             Add your socials{' '}
-            <Link href="#" className="link">
+            <Link
+              href="https://github.com/reny-pacheco/socials"
+              className="link"
+            >
               here.
             </Link>
           </Typography>

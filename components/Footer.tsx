@@ -17,7 +17,10 @@ const Footer = () => {
       >
         <Typography variant="body2" fontSize={{ xs: 10, sm: 11 }}>
           Add your social links{' '}
-          <Link href="#" style={{ color: ' #189AB4' }}>
+          <Link
+            href="https://github.com/reny-pacheco/socials"
+            style={{ color: ' #189AB4' }}
+          >
             here
           </Link>
         </Typography>
