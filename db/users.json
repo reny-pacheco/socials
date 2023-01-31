@@ -3,7 +3,7 @@
     "username": "reny-pacheco",
     "name": "Reny Pacheco",
     "bio": "Software Engineer",
-    "image": "image link",
+    "image": "https://avatars.githubusercontent.com/u/64537418?v=4",
     "tags": [
       "javascript",
       "python",
@@ -23,7 +23,7 @@
     "username": "john-doe",
     "name": "John Doe",
     "bio": "CEO @ Doe Technologies",
-    "image": "image link",
+    "image": "",
     "tags": ["javascript", "python", "linux", "java"],
     "socials": {
       "facebook": "#",

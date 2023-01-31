@@ -27,7 +27,7 @@ Displays your social links
         "username": "john-doe",
         "name": "John Doe",
         "bio": "CEO @ Doe Technologies",
-        "image": "image link",
+        "image": "<your github image link>",
         "tags": ["javascript", "python", "linux", "java"],
         "socials": {
         "facebook": "#",
@@ -43,6 +43,6 @@ Displays your social links
 
 5. Ensure that your username is unique and does not match any previous values in the file.
 
-6. Once your pull request is merged into the master branch, your data page will be generated during build time.
+6. Create a `pull request`.
 
-**Note:** Currently, dynamic images are not supported.
+7. Once your pull request is merged into the master branch, your socials page will be generated during build time.
