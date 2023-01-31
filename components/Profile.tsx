@@ -21,7 +21,7 @@ const Profile: NextPage<IProfile> = ({ bio, name, image }) => {
         }}
       >
         <Image
-          src={ProfilePic}
+          src={image || ProfilePic}
           alt={name}
           width="130"
           height="130"
